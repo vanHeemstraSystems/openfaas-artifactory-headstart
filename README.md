@@ -21,4 +21,4 @@ export OPENFAAS_PREFIX="wvanheemstra" # Populate with your Docker Hub username
 
 ### Option B: Artifactory
 
-export OPENFAAS_PREFIX="docker-shared-images.artifactory.[YOUR COMPANY].com" # Populate with your Artifactory Docker Images repository path
+export OPENFAAS_PREFIX="docker-shared-images.[YOUR ARTIFACTORY SERVER NAME].[YOUR COMPANY].com" # Populate with your Artifactory Docker Images repository path
